@@ -5,6 +5,7 @@ performance.
 
 
 **Key Features:**
+
 . **Interactive Visualizations:** Dive deep into sales data with interactive features such as slicers and filters.
 
 . **Rich Chart Variety:** Utilize an array of chart types including pie charts, donut charts, bar charts, and more to visualize sales trends effectively.
